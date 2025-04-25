@@ -46,7 +46,7 @@ WHAC-A-RABBIT/
 ├── assets/                 # Images like rabbit, burrow, background
 │   ├── rabbit.png
 │   ├── grass.png
-│   └── spacey.png
+│   └── burrow.png
 │
 ├── main.py                # Main game logic
 ├── README.md              # Project documentation
